@@ -8,8 +8,8 @@
 
 <br/>
 
-<a href="https://linkedin.com/in/rohit-kumar-5309b022a" target="_blank"><img src="linkedin-button.svg" width="200" height="50" /></a>
-<!-- <a href="https://github.com/Rohit12ka" target="_blank"><img src="github-button.svg" width="200" height="50" /></a> -->
+<a href="https://linkedin.com/in/rohit-kumar-5309b022a" target=""><img src="linkedin-button.svg" width="200" height="50" /></a>
+<a href="https://github.com/Rohit12ka" target="_blank"><img src="github-button.svg" width="200" height="50" /></a> 
 <a href="https://rohit12ka.netlify.app" target="_blank"><img src="portfolio-button.svg" width="200" height="50" /></a>
 <a href="mailto:rohitkumar27965@gmail.com"><img src="gmail-button.svg" width="200" height="50" /></a>
 
