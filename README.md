@@ -81,12 +81,7 @@
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Rohit12ka&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00F7FF&icon_color=8A2BE2" />
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rohit12ka&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00F7FF" />
-
 <img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=Rohit12ka&theme=radical&hide_border=true&background=0D1117&ring=8A2BE2&fire=00F7FF" />
-
-<img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=Rohit12ka&theme=react-dark&hide_border=true&bg_color=0D1117&color=00F7FF&line=8A2BE2&point=ffffff" />
 
 </div>
 
