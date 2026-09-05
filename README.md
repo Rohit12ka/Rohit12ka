@@ -8,8 +8,8 @@
 
 <br/>
 
-<a href="https://linkedin.com/in/rohit-kumar-5309b022a" target=""><img src="linkedin-button.svg" width="200" height="50" /></a>
-<a href="https://github.com/Rohit12ka" target="_blank"><img src="github-button.svg" width="200" height="50" /></a> 
+<a href="https://linkedin.com/in/rohit-kumar-5309b022a" target="_blank"><img src="linkedin-button.svg" width="200" height="50" /></a>
+<a href="https://github.com/Rohit12ka" target="_blank"><img src="github-button.svg" width="200" height="50" /></a>
 <a href="https://rohit12ka.netlify.app" target="_blank"><img src="portfolio-button.svg" width="200" height="50" /></a>
 <a href="mailto:rohitkumar27965@gmail.com"><img src="gmail-button.svg" width="200" height="50" /></a>
 
@@ -87,14 +87,6 @@
 <img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=Rohit12ka&theme=radical&hide_border=true&background=0D1117&ring=8A2BE2&fire=00F7FF" />
 
 <img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=Rohit12ka&theme=react-dark&hide_border=true&bg_color=0D1117&color=00F7FF&line=8A2BE2&point=ffffff" />
-
-### 🏆 Trophy Case
-<img src="https://github-profile-trophy.vercel.app/?username=Rohit12ka&theme=radical&no-frame=true&row=1&column=6" />
-
-### 🧊 3D Contribution Calendar (rotating)
-<img src="https://raw.githubusercontent.com/Rohit12ka/Rohit12ka/output/profile-3d-contrib/profile-night-rainbow.svg" width="90%"/>
-
-> Rotating isometric skyline of your commits — needs the `profile-3d-contrib` GitHub Action (setup below).
 
 </div>
 
