@@ -9,7 +9,6 @@
 <br/>
 
 <a href="https://linkedin.com/in/rohit-kumar-5309b022a" target="_blank"><img src="linkedin-button.svg" width="200" height="50" /></a>
-<a href="https://github.com/Rohit12ka" target="_blank"><img src="github-button.svg" width="200" height="50" /></a>
 <a href="https://rohit12ka.netlify.app" target="_blank"><img src="portfolio-button.svg" width="200" height="50" /></a>
 <a href="mailto:rohitkumar27965@gmail.com"><img src="gmail-button.svg" width="200" height="50" /></a>
 
@@ -94,21 +93,5 @@
 </div>
 
 > ⚡ The snake devours my contribution graph block by block — like validating transactions on a chain.
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:8A2BE2,100:00F7FF&height=3&width=100%" width="100%"/>
-
-## 📫 Let's Connect
-
-<div align="center">
-
-<a href="https://linkedin.com/in/rohit-kumar-5309b022a"><img src="linkedin-button.svg" width="200" height="50" /></a>
-<a href="mailto:rohitkumar27965@gmail.com"><img src="gmail-button.svg" width="200" height="50" /></a>
-<a href="https://rohit12ka.netlify.app"><img src="portfolio-button.svg" width="200" height="50" /></a>
-
-📍 *Greater Noida, UP, India*
-
-<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="100">
-
-</div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF0080,50:8A2BE2,100:00F7FF&height=120&section=footer" width="100%"/>
