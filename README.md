@@ -8,10 +8,9 @@
 
 <br/>
 
-<a href="https://linkedin.com/in/rohit-kumar-5309b022a" target="_blank"><img src="assets/buttons/linkedin-button.svg" width="200" height="50" /></a>
-<a href="https://github.com/Rohit12ka" target="_blank"><img src="assets/buttons/github-button.svg" width="200" height="50" /></a>
-<a href="https://rohit12ka.netlify.app" target="_blank"><img src="assets/buttons/portfolio-button.svg" width="200" height="50" /></a>
-<a href="mailto:rohitkumar27965@gmail.com"><img src="assets/buttons/gmail-button.svg" width="200" height="50" /></a>
+<a href="https://linkedin.com/in/rohit-kumar-5309b022a" target="_blank"><img src="linkedin-button.svg" width="200" height="50" /></a>
+<a href="https://rohit12ka.netlify.app" target="_blank"><img src="portfolio-button.svg" width="200" height="50" /></a>
+<a href="mailto:rohitkumar27965@gmail.com"><img src="gmail-button.svg" width="200" height="50" /></a>
 
 <br/><br/>
 
@@ -81,20 +80,7 @@
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Rohit12ka&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00F7FF&icon_color=8A2BE2" />
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rohit12ka&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00F7FF" />
-
 <img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=Rohit12ka&theme=radical&hide_border=true&background=0D1117&ring=8A2BE2&fire=00F7FF" />
-
-<img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=Rohit12ka&theme=react-dark&hide_border=true&bg_color=0D1117&color=00F7FF&line=8A2BE2&point=ffffff" />
-
-### 🏆 Trophy Case
-<img src="https://github-profile-trophy.vercel.app/?username=Rohit12ka&theme=radical&no-frame=true&row=1&column=6" />
-
-### 🧊 3D Contribution Calendar (rotating)
-<img src="https://raw.githubusercontent.com/Rohit12ka/Rohit12ka/output/profile-3d-contrib/profile-night-rainbow.svg" width="90%"/>
-
-> Rotating isometric skyline of your commits — needs the `profile-3d-contrib` GitHub Action (setup below).
 
 </div>
 
@@ -107,21 +93,5 @@
 </div>
 
 > ⚡ The snake devours my contribution graph block by block — like validating transactions on a chain.
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:8A2BE2,100:00F7FF&height=3&width=100%" width="100%"/>
-
-## 📫 Let's Connect
-
-<div align="center">
-
-<a href="https://linkedin.com/in/rohit-kumar-5309b022a"><img src="assets/buttons/linkedin-button.svg" width="200" height="50" /></a>
-<a href="mailto:rohitkumar27965@gmail.com"><img src="assets/buttons/gmail-button.svg" width="200" height="50" /></a>
-<a href="https://rohit12ka.netlify.app"><img src="assets/buttons/portfolio-button.svg" width="200" height="50" /></a>
-
-📍 *Greater Noida, UP, India*
-
-<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="100">
-
-</div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF0080,50:8A2BE2,100:00F7FF&height=120&section=footer" width="100%"/>
