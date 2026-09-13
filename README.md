@@ -4,7 +4,7 @@
 
 <img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.gif" width="500">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2800&pause=700&color=8A2BE2&center=true&vCenter=true&repeat=true&width=650&lines=Solidity+%7C+Smart+Contracts+%7C+Ethereum;MERN+Stack+%7C+React+%7C+Node.js;Building+Secure+%26+Scalable+DApps+🚀;Turning+Ideas+Into+On-Chain+Reality+⛓️" />
+<!-- <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2800&pause=700&color=8A2BE2&center=true&vCenter=true&repeat=true&width=650&lines=Solidity+%7C+Smart+Contracts+%7C+Ethereum;MERN+Stack+%7C+React+%7C+Node.js;Building+Secure+%26+Scalable+DApps+🚀;Turning+Ideas+Into+On-Chain+Reality+⛓️" /> -->
 
 <br/>
 
