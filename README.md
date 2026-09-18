@@ -59,7 +59,7 @@ VS Code · Netlify
 **Shipped**
 🖼️ NFT Marketplace — ERC-721 + IPFS
 💰 Crowdfunding dApp — auto-refunds
-🎓 Certificate Verifier — on-chain
+🎓 Certificate Verifier — on-chain + Wallet
 🗂️ MERN Task Manager — JWT + RBAC
 
 </td></tr>
