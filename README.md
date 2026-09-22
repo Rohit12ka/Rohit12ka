@@ -94,6 +94,16 @@ Built a real-time crowdfunding dApp with transparent, tamper-proof fund tracking
 
 <img width="55%" src="https://github-readme-streak-stats.herokuapp.com/?user=Rohit12ka&hide_border=true&background=00000000&stroke=1B2B22&ring=39FF88&fire=FFB000&currStreakLabel=39FF88&sideLabels=8B9A93&currStreakNum=EAEAEA&sideNums=EAEAEA&dates=5C6B64" />
 
+<br/>
+
+### 🧊 3D Contribution Skyline
+
+<img src="https://raw.githubusercontent.com/Rohit12ka/Rohit12ka/output/profile-3d-contrib/profile-night-green.svg" width="100%"/>
+
+<sub>rotating isometric view of every commit — needs one extra GitHub Action (setup below)</sub>
+
+<br/>
+
 <img src="https://raw.githubusercontent.com/Rohit12ka/Rohit12ka/output/github-contribution-grid-snake-dark.svg" width="100%"/>
 
 <br/>
