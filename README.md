@@ -92,7 +92,7 @@ Built a real-time crowdfunding dApp with transparent, tamper-proof fund tracking
 
 <br/>
 
-<img width="55%" src="https://github-readme-streak-stats.herokuapp.com/?user=Rohit12ka&hide_border=true&background=00000000&stroke=1B2B22&ring=39FF88&fire=FFB000&currStreakLabel=39FF88&sideLabels=8B9A93&currStreakNum=EAEAEA&sideNums=EAEAEA&dates=5C6B64" />
+<!-- <img width="55%" src="https://github-readme-streak-stats.herokuapp.com/?user=Rohit12ka&hide_border=true&background=00000000&stroke=1B2B22&ring=39FF88&fire=FFB000&currStreakLabel=39FF88&sideLabels=8B9A93&currStreakNum=EAEAEA&sideNums=EAEAEA&dates=5C6B64" /> -->
 
 <br/>
 
